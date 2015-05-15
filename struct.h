@@ -6,4 +6,5 @@ typedef struct a
 	int b;
 } ax;
 
+void pippo(int);
 void angelo(int);

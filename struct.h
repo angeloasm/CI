@@ -7,5 +7,5 @@ typedef struct a
 } ax;
 
 void angelo(int);
-
+void mio();
 void pippo(int);
